@@ -1,4 +1,4 @@
-FROM spark-base:latest
+FROM spydernaz/spark-base:latest
 
 COPY spark-submit.sh /
 
